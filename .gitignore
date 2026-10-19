@@ -1,0 +1,18 @@
+# Private business work and exports
+/runs/
+/exports/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.cookies
+*token*.json
+.mcp.json
+.codex/config.toml
+.claude/settings.local.json
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

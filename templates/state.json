@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "mode": "demo",
+  "stage": "business",
+  "configuration": {
+    "business": {"name": null, "service": null, "service_area": [], "customer": null, "offer": null, "capacity": null},
+    "account": {"id": null, "page_id": null, "currency": null, "timezone": null},
+    "budget": {"amount": null, "type": null, "currency": null, "start": null, "end": null, "max_total": null},
+    "settings": {"objective": null, "geography": [], "audience": null, "placements": null, "optimization": null, "category": null},
+    "destination": {"type": null, "reference": null, "privacy_url": null},
+    "ads": [],
+    "objects": [],
+    "lead_route": {"owner": null, "method": null, "destination": null, "response_expectation": null}
+  },
+  "checks": {
+    "brief_confirmed": {"passed": false, "evidence": null},
+    "account_ready": {"passed": false, "evidence": null},
+    "research_done": {"passed": false, "evidence": null},
+    "settings_verified": {"passed": false, "evidence": null},
+    "creative_approved": {"passed": false, "evidence": null},
+    "lead_test_passed": {"passed": false, "evidence": null},
+    "review_complete": {"passed": false, "evidence": null}
+  },
+  "approval": {"decision": null, "by": null, "at": null, "source": null, "config_sha256": null}
+}
